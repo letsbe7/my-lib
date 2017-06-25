@@ -1,0 +1,17 @@
+
+
+	spring
+	svn
+	instasearch
+	quicksearch
+	properties editor
+	jautodoc
+	grepconsole
+	anyedit
+	jsdt
+	more clipboard
+	jdt decompiler
+	any edit
+	more unit
+	pde tools
+	yedit
